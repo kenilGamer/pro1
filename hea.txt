@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel='stylesheet' href='style.css'>
+    
+</head>
+<body>
+    <div id="background">
+        <div id="nav">
+            <i class="ri-home-office-fill"></i>
+        </div>
+        <div id="hv">
+            <h1>today's collection</h1>
+            <P>hello ghjgh8 u eht3 ktuhjibnntgj</P>
+            <div id="elsmnts">
+                <div class="elsmnts"></div>
+                <div class="elsmnts"></div>
+                <div class="elsmnts"></div>
+                <div class="elsmnts"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
