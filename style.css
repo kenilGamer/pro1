@@ -24,7 +24,7 @@ body{
 #background{
     width: 100%;
     height: 100%;
-    background-image:url(https://c4.wallpaperflare.com/wallpaper/1010/613/78/minecraft-minecraft-dungeons-minecraft-the-end-enderman-minecraft-4k-hd-wallpaper-preview.jpg);
+    background-image:url(https://images5.alphacoders.com/564/thumbbig-564931.webp);
     background-size: cover;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275) 1.5s;
 }
@@ -36,10 +36,10 @@ body{
 }
 #hv h1{
     font-size: 50px;
-    background: linear-gradient(red,rgb(255, 128, 0),rgb(253, 186, 2),rgb(255, 247, 0),rgb(115, 255, 0),rgb(0, 255, 115),rgb(9, 227, 239),rgb(0, 128, 255));
+    background: linear-gradient(to left bottom,rgb(255, 247, 0),rgb(115, 255, 0),rgb(0, 255, 115),rgb(9, 227, 239),rgb(0, 128, 255));
     background-clip: text;
     -webkit-background-clip: text;
-    text-shadow: 5px;
+    text-shadow: 50px;
     color: transparent;
 }
 
@@ -59,7 +59,7 @@ body{
     width: 17%;
     height: 300px;
     padding: 5px;
-    background: linear-gradient(rgb(163, 245, 22),rgb(13, 225, 126),rgb(227, 53, 82),rgb(255, 45, 255),rgb(15, 163, 255));
+    background: linear-gradient(to left bottom,rgb(245, 22, 22) ,rgb(27, 13, 225));
     
 }
 @media (max-width:600px) {
@@ -74,28 +74,42 @@ body{
     width: 100%;
     height: 70%;
     border-radius: 10xp;
-    background-image:url();
+    background-image:url(https://images7.alphacoders.com/370/thumbbig-370408.webp);
+    background-position: center;
     background-size: cover;
+    
 }
 #elemnts .elemnts:nth-child(2) .pic{
  width: 100%;
  height: 70%;
- border-radius: 10xp;
- background-image: url(data:image/jpeg;base64,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);
+ border-radius: 10px;
+ background-image:url(https://images7.alphacoders.com/439/thumbbig-439637.webp);
  background-size: cover;
+ background-position: center;
 }
 #elemnts .elemnts:nth-child(3) .pic{
     width: 100%;
     height: 70%;
-    border-radius: 10xp;
-    background-image:url();
+    border-radius: 10px;
+    background-image:url(https://images3.alphacoders.com/885/thumbbig-885750.webp);
+    background-position: center;
     background-size: cover;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 #elemnts .elemnts:nth-child(4) .pic{
     width: 100%;
     height: 70%;
-    border-radius: 10xp;
+    border-radius: 10px;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/399/582/554/forza-motorsport-7-forza-games-pc-games-wallpaper-preview.jpg);
     background-size: cover;
+    background-position: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
 .elemnts .new h2{
